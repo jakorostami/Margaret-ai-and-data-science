@@ -37,3 +37,21 @@ What is a virtual environment? A virtual environment is for you to be working on
 Jîngeheke mecazî çi ye? Jîngeheke mecazî ji bo we ye ku hûn li ser projeyên xwe bi mîhengên diyarkirî li ser komputerê bixebitin bêyî ku hûn tevahiya jîngehê di komputerê de mîheng bikin, tenê jîngeheke çêkirî li ser komputerê ye. Ev yek ji we re hêsan dike ku hûn gelek projeyan bi mîhengên cûda biafirînin ger hewce bike. Mînakî, avakirina AI bi mîhengên diyarkirî an kirina azmayîş amarî bi mîhengên cûda. <br>
 
 
+1. **Windows**
+  - For Windows you will also want to install Anaconda: https://www.anaconda.com/download
+  - Open cmd (command prompt)
+  - Create a project folder: `mkdir my-project`
+  - Go to the project folder: `cd my-project`
+  - Create a new environment: `conda create --name myenv python=3.12`
+  - To activate the environment: `conda activate myenv`
+  - Now you can install Python packages either with `pip install` or `conda install`
+
+2. **macOS/Linux**
+  - Open the terminal
+  - Create a project folder: `mkdir my-project`
+  - Go to the project folder: `cd my-project`
+  - Create a new environment: `python3.12 -m venv myenv`
+  - To activate the environment: `source myenv/bin/activate`
+  - Now you can install Python packages with `pip install`
+
+
