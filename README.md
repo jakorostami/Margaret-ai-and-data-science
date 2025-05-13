@@ -13,7 +13,7 @@ Welcome to the repository for AI & Data Science that has been created for Margar
 Bi xêr hatin bo depoya Zanista AI û Daneyan ku ji bo Margaret hatiye afirandin. Em ê balê bikişînin ser fêrbûna bi kirinê, ku tê vê wateyê ku em ê teoriyê bi koda Pythonê bixin praktîkê.
 
 
-## Starting point - Install Python / خاڵی دەستپێک - دامەزراندنی پایتۆن / Xala destpêkê - Pythonê saz bike
+## Starting point - Install Python / دەستپێکردن - دامەزراندنی پایتۆن / Destpêkirin - Pythonê saz bike
 
 Before we do anything, we need to download and install some apps so you can start. <br>
 
