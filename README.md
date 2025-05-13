@@ -55,3 +55,23 @@ Jîngeheke mecazî çi ye? Jîngeheke mecazî ji bo we ye ku hûn li ser projey�
   - Now you can install Python packages with `pip install`
 
 
+## Program structure in this course / پێکهاتەی بەرنامە لەم خولەدا / Avahiya bernameyê di vê dersê de
+
+### Data Science
+1. Introduction / پێشەکی / Pêşekî
+   - What is Data Science? / زانستی داتا چییە؟ / Zanista Data çi ye?
+   - Real world applications kids can relate to / بە کارهێنانی ڕاستەقینە منداڵان دەتوانن پەیوەندییان پێوە بکەن / Bikaranîn rastîn ên ku zarok dikarin pê re têkilî daynin
+   - Basic Python for data (variables, lists, dictionaries) / پایتۆنی بنەڕەتی بۆ داتا (ڤارییابەل، لیست، دیکشەنەری) / Python bingehîn ji bo daneyan (vârîâbel, lîste, dîkşenerî)
+
+2. Data Collection / کۆکردنەوەی زانیاری / Berhevkirina zanyarî
+   - 
+
+
+4. Data Cleaning
+   - Common data problems / کێشەی بەردەوامی داتا / Pirsgirêka berdewamiya data
+   - Handling missing values / مامەڵەکردن لەگەڵ ئەو زانیاریانەی کە نەماوە / Birêvebirina datayên winda
+   - Data types and conversion / جۆرەکانی داتا و گۆڕینی / Cureyên datayên û veguherîn
+   - Creating clean datasets / دروستکردنی داتا سێتی پاک / Çêkirina setên datayên paqij
+   - Pandas basics for data manipulation / بنەماکانی پانداس بۆ دەستکاریکردنی داتا / Bingehên Pandas ji bo manipulasyona datayên
+   - 
+
