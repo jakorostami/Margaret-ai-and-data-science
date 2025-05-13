@@ -24,9 +24,16 @@ Berî ku em tiştekî bikin, dibê em hin sepanan dakêşin û saz bikin da ku h
 **Download Python (macOS and Linux/Ubuntu requires you to open the Terminal)**
    - Windows: https://www.python.org/downloads/release/python-31210/
    - macOS via brew: `brew install python@3.12`
-   - macOS via pyenv: 
-     - `curl https://pyenv.run | bash`
+   - macOS via pyenv: `curl https://pyenv.run | bash`
    - Linux/Ubuntu: `sudo apt install python3.12 python3.12-venv python3.12-dev -y`
 
+
+## Create a virtual environment / ژینگەیەکی مەجازی دروست بکە / Jîngehek mecazî biafirîne
+
+What is a virtual environment? A virtual environment is for you to be working on your projects with certain settings on your computer without configuring for the whole environment in the computer, only a made-up environment on the computer. This makes it easy for you to create multiple projects with different settings if you need it. For instance, building AI with certain settings and doing data analysis with different settings. <br>
+
+ژینگەی مەجازی چییە؟ ژینگەی مەجازی ئەوەیە کە تۆ بە هەندێک ڕێکخستن لە کۆمپیوتەرەکەتدا کار لەسەر پڕۆژەکانت بکەیت بەبێ ئەوەی ڕێکبخەیت بۆ تەواوی ژینگەی ناو کۆمپیوتەرەکە، تەنها ژینگەیەکی دروستکراو لەسەر کۆمپیوتەرەکە. ئەمەش ئاسانکاریت بۆ دەکات کە چەندین پڕۆژە بە ڕێکخستنی جیاواز دروست بکەیت ئەگەر پێویستت پێی بێت. بۆ نموونە دروستکردنی AI بە هەندێک ڕێکخستن یان ئەنجامدانی شیکاری ئاماری بە ڕێکخستنە جیاوازەکان. <br>
+
+Jîngeheke mecazî çi ye? Jîngeheke mecazî ji bo we ye ku hûn li ser projeyên xwe bi mîhengên diyarkirî li ser komputerê bixebitin bêyî ku hûn tevahiya jîngehê di komputerê de mîheng bikin, tenê jîngeheke çêkirî li ser komputerê ye. Ev yek ji we re hêsan dike ku hûn gelek projeyan bi mîhengên cûda biafirînin ger hewce bike. Mînakî, avakirina AI bi mîhengên diyarkirî an kirina azmayîş amarî bi mîhengên cûda. <br>
 
 
