@@ -71,7 +71,7 @@ Jîngeheke mecazî çi ye? Jîngeheke mecazî ji bo we ye ku hûn li ser projey�
    - Common data problems / کێشەی بەردەوامی داتا / Pirsgirêka berdewamiya data
    - Handling missing values / مامەڵەکردن لەگەڵ ئەو زانیاریانەی کە نەماوە / Birêvebirina datayên winda
    - Data types and conversion / جۆرەکانی داتا و گۆڕینی / Cureyên datayên û veguherîn
-   - Creating clean datasets / دروستکردنی داتا سێتی پاک / Çêkirina setên datayên paqij
+   - Creating clean datasets / دروستکردنی داتا سێتی تەمیز / Çêkirina setên datayên temîz
    - Pandas basics for data manipulation / بنەماکانی پانداس بۆ دەستکاریکردنی داتا / Bingehên Pandas ji bo manipulasyona datayên
    - 
 
