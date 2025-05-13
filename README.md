@@ -64,10 +64,10 @@ Jîngeheke mecazî çi ye? Jîngeheke mecazî ji bo we ye ku hûn li ser projey�
    - Basic Python for data (variables, lists, dictionaries) / پایتۆنی بنەڕەتی بۆ داتا (ڤارییابەل، لیست، دیکشەنەری) / Python bingehîn ji bo daneyan (vârîâbel, lîste, dîkşenerî)
 
 2. Data Collection / کۆکردنەوەی زانیاری / Berhevkirina zanyarî
-   - 
+   - Test
 
 
-4. Data Cleaning
+3. Data Cleaning
    - Common data problems / کێشەی بەردەوامی داتا / Pirsgirêka berdewamiya data
    - Handling missing values / مامەڵەکردن لەگەڵ ئەو زانیاریانەی کە نەماوە / Birêvebirina datayên winda
    - Data types and conversion / جۆرەکانی داتا و گۆڕینی / Cureyên datayên û veguherîn
