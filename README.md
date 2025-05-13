@@ -1,7 +1,7 @@
 # Margaret-ai-and-data-science
 AI and Data Science for Margaret Educational Community and School <br>
  زیرەکی دەستکرد و زانستی داتا بۆ کۆمەڵگە و قوتابخانەی پەروەردەیی مارگرێت <br>
-Zekaya sûnî û Zanista Daneyan ji bo Civaka Perwerdehiyê û Dibistana Margaret
+Zîrekîya destkirî û Zanista Data ji bo Civaka Perwerdehiyê û Dibistana Margaret
 
 
 ## Introduction / پێشەکی / Pêşekî
