@@ -64,8 +64,8 @@ Jîngeheke mecazî çi ye? Jîngeheke mecazî ji bo we ye ku hûn li ser projey�
    - Basic Python for data (variables, lists, dictionaries) / پایتۆنی بنەڕەتی بۆ داتا (ڤارییابەل، لیست، دیکشەنەری) / Python bingehîn ji bo daneyan (vârîâbel, lîste, dîkşenerî)
 
 2. Data Collection / کۆکردنەوەی زانیاری / Berhevkirina zanyarî
-   - Test
-
+   - Data sources (web, sensors, surveys) / سەرچاوەی زانیاری (وێب، سەنسۆر، ڕاپرسی) / Çavkaniyên daneyan (web, sensor, rapirsî)
+   - Simple web scraping with BeautifulSoup (for older kids) / وێب سکرێپینگ سادە بۆ منداڵانی گەورەتر / Web scrapinga hêsan ji bo zarokên mezin
 
 3. Data Cleaning
    - Common data problems / کێشەی بەردەوامی داتا / Pirsgirêka berdewamiya data
