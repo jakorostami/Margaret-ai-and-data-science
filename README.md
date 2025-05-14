@@ -70,11 +70,24 @@ Jîngeheke mecazî çi ye? Jîngeheke mecazî ji bo we ye ku hûn li ser projey�
    - APIs for kids (weather API, NASA API) / API بۆ منداڵان (API کەش و هەوا، NASA API) / API-yên ji bo zarokan (API-ya hewayê, API-ya NASA-yê)
    - Data privacy and ethics / پاراستنی نهێنی و ئەخلاقی داتا / Nepenîtiya data û exlaq
 
-3. Data Cleaning
+3. Data Cleaning / تەمیزکردنی داتا / Temîzkirina data
    - Common data problems / کێشەی بەردەوامی داتا / Pirsgirêka berdewamiya data
    - Handling missing values / مامەڵەکردن لەگەڵ ئەو زانیاریانەی کە نەماوە / Birêvebirina datayên winda
    - Data types and conversion / جۆرەکانی داتا و گۆڕینی / Cureyên datayên û veguherîn
    - Creating clean datasets / دروستکردنی داتا سێتی تەمیز / Çêkirina setên datayên temîz
    - Pandas basics for data manipulation / بنەماکانی پانداس بۆ دەستکاریکردنی داتا / Bingehên Pandas ji bo manipulasyona datayên
   
+4. Visualization / نیشاندان / Nîşandanê
+   - Importance of data visualization / گرنگی بینینی داتا / Girîngiya dîtbarîkirina daneyan
+   - Basic charts with Matplotlib /  هێڵکارییە سادە لەگەڵ ماتپڵۆتلیب / Hêlkarîyên bingehîn bi Matplotlib re
+   - Interactive visualizations with Plotly / بینینی کارلێککارانە لەگەڵ پلۆتلی / Dîtbarîkirinên karlêkirin bi Plotly re
+   - Creating dashboards with Streamlit / دروستکردنی داشبۆرد بە ستریملیت / Çêkirina dashboardan bi Streamlit re
+   - Visual storytelling with data / چیرۆکگێڕانی بینراو بە داتا / Çîrokbêjiya dîtbarî bi data
 
+5. Descriptive Statistics / پێناسینی ئاماری / Pênasînî amarî
+   - Mean, median, mode
+   - Range, variance, standard deviation
+   - Percentiles and quantiles
+   - Correlation
+   - Practical examples with data
+ 
