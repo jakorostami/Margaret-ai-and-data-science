@@ -90,4 +90,26 @@ Jîngeheke mecazî çi ye? Jîngeheke mecazî ji bo we ye ku hûn li ser projey�
    - Percentiles and quantiles
    - Correlation
    - Practical examples with data
- 
+
+6. Exploratory Analysis / کەشفکردنی ازمایەش / Keşfkirina azmayîş
+   - Asking questions of data / پرسیارکردن لە داتا / Pirsînkirina ji data
+   - Hypothesis formation / دروستبوونی گریمانە / Damezrandina girîmanî
+   - Testing relationships / تاقیکردنەوەی پەیوەندییەکان / Ceribandina têkiliyan
+   - Finding patterns and outliers / دۆزینەوەی نەخش و اوتلایەر / Dîtina nexş û outlier
+   - Creating insights from data / دروستکردنی تێگەیشتن لە داتا / Afirandina têgihiştinê ji data
+  
+7. Machine Learning Basics
+   - What is machine learning?
+   - Supervised vs unsupervised learning
+   - Classification
+   - Regression
+   - Evaluating models
+
+8. Data Science Projects
+   - Weather analysis
+   - Sports statistics
+   - Social media trends
+   - Environmental data
+   - Personal data collection projects
+  
+   
