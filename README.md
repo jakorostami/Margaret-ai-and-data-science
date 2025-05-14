@@ -66,6 +66,9 @@ Jîngeheke mecazî çi ye? Jîngeheke mecazî ji bo we ye ku hûn li ser projey�
 2. Data Collection / کۆکردنەوەی زانیاری / Berhevkirina zanyarî
    - Data sources (web, sensors, surveys) / سەرچاوەی زانیاری (وێب، سەنسۆر، ڕاپرسی) / Çavkaniyên daneyan (web, sensor, rapirsî)
    - Simple web scraping with BeautifulSoup (for older kids) / وێب سکرێپینگ سادە بۆ منداڵانی گەورەتر / Web scrapinga hêsan ji bo zarokên mezin
+   - CSV, JSON file formats / فۆرماتەکانی پەڕگەی CSV، JSON / Formatên pelan ên CSV, JSON
+   - APIs for kids (weather API, NASA API) / API بۆ منداڵان (API کەش و هەوا، NASA API) / API-yên ji bo zarokan (API-ya hewayê, API-ya NASA-yê)
+   - Data privacy and ethics / پاراستنی نهێنی و ئەخلاقی داتا / Nepenîtiya data û exlaq
 
 3. Data Cleaning
    - Common data problems / کێشەی بەردەوامی داتا / Pirsgirêka berdewamiya data
@@ -73,5 +76,5 @@ Jîngeheke mecazî çi ye? Jîngeheke mecazî ji bo we ye ku hûn li ser projey�
    - Data types and conversion / جۆرەکانی داتا و گۆڕینی / Cureyên datayên û veguherîn
    - Creating clean datasets / دروستکردنی داتا سێتی تەمیز / Çêkirina setên datayên temîz
    - Pandas basics for data manipulation / بنەماکانی پانداس بۆ دەستکاریکردنی داتا / Bingehên Pandas ji bo manipulasyona datayên
-   - 
+  
 
