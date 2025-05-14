@@ -111,5 +111,95 @@ Jîngeheke mecazî çi ye? Jîngeheke mecazî ji bo we ye ku hûn li ser projey�
    - Social media trends
    - Environmental data
    - Personal data collection projects
+
+
+### AI
+
+1. Introduction
+   - What is Artificial Intelligence?
+   - History of AI
+   - Types of AI
+   - Ethical considerations
+   - Setting up tools and environment
   
+2. Fundamentals
+   - Problem solving with algorithms
+   - Search algorithms
+   - Game playing AI
+   - Rule based systems
+   - Introduction to neural networks
+
+3. Machine Learning for AI
+   - Supervised learning for classification
+   - Computer Vision basics
+   - Training vs testing data
+   - Model evaluation
+   - Transfer learning concepts
+
+4. Computer Vision
+   - Image recognition basics
+   - Object detection
+   - Face detection
+   - Image generation
+   - Projects with computer vision
+  
+5. Natural Language Processing
+   - Text analysis basics
+   - Sentiment analysis
+   - Chatbots
+   - Working with LLMs
+   - Text generation
+  
+6. Speech Technologies
+   - Speech-to-text
+   - Text-to-speech
+   - Voice assistants
+   - Building simple voice commands
+   - Sound classification
+  
+7. Generative AI (GenAI)
+   - Introduction to generative models
+   - Introduction to Transformers
+   - Text generation
+   - Image generation
+   - Creative AI projects
+  
+
+8. AI Projects
+   - Simple chatbot
+   - Object detector
+   - Voice controlled applications
+   - Image classification
+   - Generative AI
+  
+
+## Age groups for teacher guidance
+
+### Ages 9-10
+- Visual programming
+- Simplified explanations with animations
+- Guided activities
+- Focus on ethics and imagination
+- Heavily pre-made projects
+
+### Ages 11-12
+- Mix of block and text based programming
+- More hands-on activities
+- Introduction to Python with clear examples
+- Guided exploration with checkpoints
+- Team based projects
+
+### Ages 13-14
+- Full Python programming
+- More complex datasets
+- Introduction to real-world applications
+- Independent exploration
+- Individual and group projects
+
+### Ages 15-16
+- Advanced Python concepts
+- Industry relevant tools and libraries
+- Research inspired projects
+- Career connections (Asiacell, oil companies, and banks etc)
+- Potential internship/mentorship connection with companies and universities
    
