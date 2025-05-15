@@ -3,6 +3,7 @@ AI and Data Science for Margaret Educational Community and School <br>
  زیرەکی دەستکرد و زانستی داتا بۆ کۆمەڵگە و قوتابخانەی پەروەردەیی مارگرێت <br>
 Zîrekîya destkirî û Zanista Data ji bo Civaka Perwerdehiyê û Dibistana Margaret
 
+![image](https://github.com/jakorostami/Margaret-ai-and-data-science/blob/main/assets/main.jpg?raw=true)
 
 ## Introduction / پێشەکی / Pêşekî
 
